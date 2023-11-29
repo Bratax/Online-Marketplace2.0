@@ -28,7 +28,7 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd inventory-application
+$ cd online marketplace
 $ npm install (install backend dependencies)
 $ cd views
 $ npm install (install frontend dependencies)
